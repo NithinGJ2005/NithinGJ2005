@@ -1,9 +1,9 @@
 Hi , I'm Nithin G J
 
-Co-founder of DeepFish AI LLP, a DPIIT-recognized Startup India startup.
-Final-year Artificial Intelligence & Machine Learning student from India.
-AI/ML Engineer passionate about Computer Vision, Agentic AI, and Generative AI.
-I enjoy building AI products that solve real-world problems.
+- Co-founder of **DeepFish AI LLP**, a DPIIT-recognized Startup India startup.
+- Final-year **Artificial Intelligence & Machine Learning** student from India.
+- AI/ML Engineer passionate about **Computer Vision, Agentic AI, and Generative AI**.
+- I Enjoy building AI products that solve real-world problems.
 ## 🌐 Portfolio
 Visit my portfolio:
 🔗 https://nithingj.vercel.app/
