@@ -1,4 +1,6 @@
 ## 🌐 Portfolio
+Visit my portfolio:
+🔗 https://nithingj.vercel.app/
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://nithingj.vercel.app/)
 
