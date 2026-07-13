@@ -21,9 +21,5 @@ Visit my portfolio:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NithinGJ2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<h2 align="center">📈 Contribution Graph</h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NithinGJ2005&theme=github-dark" alt="Nithin's Contribution Graph" />
-</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
