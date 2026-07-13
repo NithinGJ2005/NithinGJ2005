@@ -1,7 +1,6 @@
 ## 🌐 Portfolio
 
-🌍 **Visit my portfolio:**
-**🔗 https://nithingj.vercel.app/**
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://nithingj.vercel.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nithingj2005/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nithingj27042005@gmail.com) 
@@ -14,6 +13,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NithinGJ2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=NithinGJ2005&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
