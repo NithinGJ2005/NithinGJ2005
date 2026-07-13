@@ -1,139 +1,19 @@
-💫 About Me:
-💫 About Me
+## 🌐 Portfolio
 
-Hi 👋, I’m Nithin G J
+🌍 **Visit my portfolio:**
+**🔗 https://nithingj.vercel.app/**
 
-- 🎓 Final-year B.E. Artificial Intelligence & Machine Learning student from India.
-- 🤖 Passionate about Artificial Intelligence, Computer Vision, Agentic AI, and Generative AI.
-- 🚀 Co-founder of DeepFish AI LLP, a DPIIT-recognized Startup India startup.
-- 💡 I enjoy building AI-powered solutions that solve real-world problems.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nithingj2005/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nithingj27042005@gmail.com) 
 
-### What I’m Up To
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=NithinGJ2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=NithinGJ2005&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=NithinGJ2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 Working on ReviewSentinel, an autonomous AI code review agent using LangGraph, Google Gemini, and GitHub integration.
-- 👯 Open to collaborating on AI, Agentic AI, Computer Vision, and Open Source projects.
-- 🤝 Looking for AI/ML Internship and Research opportunities.
-- 🌱 Currently learning LLMs, RAG, Multi-Agent Systems, LangGraph, Kubernetes, and MLOps.
-- 💬 Ask me about Python, Machine Learning, Deep Learning, Computer Vision, YOLOv8, LangGraph, Streamlit, Git, and GitHub.
+---
+[![](https://komarev.com/ghpvc/?username=NithinGJ2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-—
-
-## 🚀 Featured Projects
-
-### 🐟 DeepFish AI
-Real-time Fish Species Detection using YOLOv8 with over 5,000+ annotated images, achieving 93% accuracy.
-
-### 🤖 ReviewSentinel
-Autonomous Multi-Agent AI Code Review System using LangGraph, Gemini, GitHub Actions, and Static Analysis.
-
-### 📡 CellRoute AI
-Cellular-aware Intelligent Routing Engine for reliable V2X communication and smart navigation.
-
-### 😴 AI-Powered Microsleep Detection
-Real-time driver drowsiness detection using OpenCV, MediaPipe, and Eye Aspect Ratio (EAR).
-
-—
-
-## 🏆 Achievements
-
-- 💰 Awarded ₹2.5 Lakhs Grant under the NewGen IEDC Program.
-- 🚀 Co-founder of DeepFish AI LLP (DPIIT Recognized Startup under Startup India).
-- 🏅 Top 10 Finalist – MAHE Mobility Challenge 2026.
-- 🎯 Event Manager – ACM Student Chapter, JNNCE.
-
-—
-
-## 📜 Certifications
-
-- 🏅 NPTEL – Programming and DSA using Python
-- 🤖 IBM SkillsBuild × Edunet Foundation – AI & ML Internship
-- 📊 Elevate Labs – Data Analyst Internship
-- 🎮 ARK Infosolutions – Unity Fundamentals & C# Programming
-
-—
-
-## 🌐 Connect with Me
-
-🌐 Portfolio: https://nithingj.vercel.app/
-
-💼 LinkedIn: https://linkedin.com/in/nithingj2005
-
-📧 Email: nithingj27042005@gmail.com
-
-💻 GitHub: https://github.com/NithinGJ2005
-
-—
-
-## 💻 Tech Stack
-
-### Languages
-
-Python • Java • C
-
-### AI / Machine Learning
-
-TensorFlow • PyTorch • Scikit-Learn • OpenCV • MediaPipe • YOLOv8 • Hugging Face • LangGraph • Google Gemini
-
-### Frameworks
-
-React • Streamlit
-
-### Databases
-
-MySQL
-
-### Tools & Platforms
-
-Git • GitHub • Docker • Kubernetes • Linux • VS Code • Jupyter Notebook • Google Colab • Vercel
-
-—
-
-## 📊 GitHub Stats
-
-
-
-
-
-
-
-
-
-
-
-
-—
-
-## 🏆 GitHub Trophies
-
-
-
-
-
-
-—
-
-## 📈 Contribution Graph
-
-
-
-
-
-
-—
-
-## ✨ Quote
-
-> “Turning ideas into intelligent systems, one commit at a time.”
-🌐 Socials:
-LinkedIn email
-
-💻 Tech Stack:
-Python Vercel Streamlit MySQL Matplotlib NumPy Pandas PyTorch scikit-learn TensorFlow Git GitHub Portfolio
-
-📊 GitHub Stats:
-
-
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
