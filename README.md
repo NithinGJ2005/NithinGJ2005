@@ -21,6 +21,10 @@ Visit my portfolio:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NithinGJ2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NithinGJ2005/NithinGJ2005/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
